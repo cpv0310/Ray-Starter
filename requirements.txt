@@ -1,0 +1,4 @@
+pandas
+numpy
+ray
+modin[ray]
